@@ -1,6 +1,6 @@
 /*!
  * AdminLTE v2.4.18
- * 
+ *
  *   Author:  Colorlib
  *   Support: <https://github.com/ColorlibHQ/AdminLTE/issues>
  *   Repository: git://github.com/ColorlibHQ/AdminLTE.git
@@ -168,7 +168,7 @@ h6,
 }
 /* General Links */
 a {
-  color: #903030;
+  color: #00a65a;
 }
 a:hover,
 a:active,
@@ -1593,7 +1593,7 @@ a:focus {
   border-top-color: #3c8dbc;
 }
 .box.box-info {
-  border-top-color: #903030;
+  border-top-color: #07ba37;
 }
 .box.box-danger {
   border-top-color: #dd4b39;
@@ -2284,14 +2284,14 @@ a:focus {
   background-color: #e7e7e7;
 }
 .btn-primary {
-  background-color: #903030;
-  border-color: #903030;
+  background-color: #6AB187;
+  border-color: #6AB187;
 }
 .btn-primary:hover,
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary.hover {
-  background-color: #B53C3C !important;
+  background-color: #25cc6a !important;
   outline: none;
 }
 .btn-success {
