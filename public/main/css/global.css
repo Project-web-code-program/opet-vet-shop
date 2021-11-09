@@ -7,7 +7,7 @@
   cursor: pointer;
 }
 
-body { 
+body {
    padding-right: 0 !important; /* too handle bug for modal bootstrap*/
 }
 
@@ -49,7 +49,7 @@ body {
   width: 34px;
   height: 34px;
   line-height: 34px;
-  text-align: center; 
+  text-align: center;
 }
 
 #loading-screen {
@@ -139,37 +139,37 @@ body {
 }
 
 .datepicker table tr td.today {
-  background: #903030 !important;
+  background: #00a65a !important;
 }
 
 .datepicker table tr td.active.active {
   background: #2b1d1d !important ;
 }
 
-.daterangepicker td.active, .daterangepicker td.active:hover { 
+.daterangepicker td.active, .daterangepicker td.active:hover {
   background-color: #2b1d1d !important;
 }
 
 .daterangepicker .input-mini.active {
-  border: 1px solid #903030 !important;
+  border: 1px solid #00a65a !important;
 }
 
 .range_inputs .applyBtn {
-  background-color: #903030;
-  border-color: #903030;
+  background-color: #00a65a;
+  border-color: #00a65a;
 }
 .range_inputs .applyBtn:focus {
   outline: none;
-  background-color: #903030;
-  border-color: #903030;
+  background-color: #00a65a;
+  border-color: #00a65a;
 }
 
 .datepicker table tr td span.active, .datepicker table tr td span.active.disabled,
 .datepicker table tr td span.active.disabled:hover, .datepicker table tr td span.active:hover {
-  background-image: linear-gradient(to bottom,#903030,#2b1d1d) !important;
+  background-image: linear-gradient(to bottom,#00a65a,#2b1d1d) !important;
 }
 
-/* .daterangepicker td.in-range { 
+/* .daterangepicker td.in-range {
   background-color: #903030 !important;
 } */
 
@@ -227,31 +227,31 @@ input:disabled {
   margin-left: 20px;
 }
 
-.m-t-10px { 
+.m-t-10px {
 	margin-top: 10px;
 }
 
-.m-t-25px { 
+.m-t-25px {
 	margin-top: 25px;
 }
 
-.m-t-50px { 
+.m-t-50px {
 	margin-top: 50px;
 }
 
-.m-b-10px { 
+.m-b-10px {
 	margin-bottom: 10px;
 }
 
-.m-b-15px { 
+.m-b-15px {
 	margin-bottom: 15px;
 }
 
-.m-b-20px { 
+.m-b-20px {
 	margin-bottom: 20px;
 }
 
-.m-r-10px { 
+.m-r-10px {
 	margin-right: 10px;
 }
 
